@@ -1,0 +1,5 @@
+# ninja log v5
+0	89	1698042692491096068	CMakeFiles/text_manipulation_c.dir/main.c.o	e4d8b628da9eea94
+24	40	1697445276744131134	text_manipulation_c	6006f28f17e9436f
+1	46	1698042719243254450	build.ninja	9fab0f44ae8aeaf2
+0	59	1698042719311254853	text_manipulation_c	6006f28f17e9436f
